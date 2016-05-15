@@ -227,7 +227,7 @@ enum direction {
 
 let CLEAR: Color = Color(RED: 0, GREEN: 0, BLUE: 0, ALPHA: 0)
 
-let BLACK: Color = Color(RED: 0, GREEN: 0, BLUE: 0, ALPHA: 255)
+let BLACK: Color = Color(RED: 30, GREEN: 30, BLUE: 30, ALPHA: 255)
 let COLORWHITE: Color = Color(RED: 255, GREEN: 255, BLUE: 255, ALPHA: 255)
 
 let REDDK :  Color = Color(RED: 88, GREEN: 0, BLUE: 0, ALPHA: 255)

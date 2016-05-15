@@ -23,6 +23,9 @@
 		5119371D1CD31D180080B105 /* creatureCircle2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5119371C1CD31D180080B105 /* creatureCircle2.png */; };
 		5119371F1CD320180080B105 /* GenerateTransformTexture copy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5119371E1CD320180080B105 /* GenerateTransformTexture copy.swift */; };
 		511937211CD326FF0080B105 /* creatureHead1.png in Resources */ = {isa = PBXBuildFile; fileRef = 511937201CD326FF0080B105 /* creatureHead1.png */; };
+		5138E1FA1CE7A91200E6CB65 /* black.png in Resources */ = {isa = PBXBuildFile; fileRef = 5138E1F91CE7A91200E6CB65 /* black.png */; };
+		5138E1FC1CE7A93300E6CB65 /* hit.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5138E1FB1CE7A93300E6CB65 /* hit.mp3 */; };
+		5138E1FE1CE7A96B00E6CB65 /* deathScream.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5138E1FD1CE7A96B00E6CB65 /* deathScream.mp3 */; };
 		5195315B1CCBF99A00CF857E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5195315A1CCBF99A00CF857E /* AppDelegate.swift */; };
 		5195315D1CCBF99A00CF857E /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 5195315C1CCBF99A00CF857E /* GameScene.sks */; };
 		5195315F1CCBF99A00CF857E /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5195315E1CCBF99A00CF857E /* GameScene.swift */; };
@@ -50,15 +53,11 @@
 		519531A11CCBFF8F00CF857E /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 519531A01CCBFF8F00CF857E /* Constant.swift */; };
 		519531A31CCC65BF00CF857E /* player.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 519531A21CCC65BF00CF857E /* player.atlas */; };
 		519531A51CCC67DF00CF857E /* ProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 519531A41CCC67DF00CF857E /* ProgressBar.swift */; };
-		519531A71CCC68A600CF857E /* black.png in Resources */ = {isa = PBXBuildFile; fileRef = 519531A61CCC68A600CF857E /* black.png */; };
-		519531A91CCC68B200CF857E /* red3.png in Resources */ = {isa = PBXBuildFile; fileRef = 519531A81CCC68B200CF857E /* red3.png */; };
 		519531AB1CCC785100CF857E /* BaseEnemy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 519531AA1CCC785100CF857E /* BaseEnemy.swift */; };
 		51A8438B1CCC83460017AA4C /* creature.png in Resources */ = {isa = PBXBuildFile; fileRef = 51A8438A1CCC83460017AA4C /* creature.png */; };
 		51A8438F1CCDC6030017AA4C /* dead.png in Resources */ = {isa = PBXBuildFile; fileRef = 51A8438C1CCDC6030017AA4C /* dead.png */; };
 		51A843901CCDC6030017AA4C /* dead2.png in Resources */ = {isa = PBXBuildFile; fileRef = 51A8438D1CCDC6030017AA4C /* dead2.png */; };
 		51A843911CCDC6030017AA4C /* GO.png in Resources */ = {isa = PBXBuildFile; fileRef = 51A8438E1CCDC6030017AA4C /* GO.png */; };
-		51A843931CCE86E90017AA4C /* deathScream.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 51A843921CCE86E90017AA4C /* deathScream.mp3 */; };
-		51A843951CCE86F20017AA4C /* hit.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 51A843941CCE86F20017AA4C /* hit.mp3 */; };
 		51A843971CCEAD5F0017AA4C /* defenseAura.png in Resources */ = {isa = PBXBuildFile; fileRef = 51A843961CCEAD5F0017AA4C /* defenseAura.png */; };
 		51A843991CCF0E030017AA4C /* slide.png in Resources */ = {isa = PBXBuildFile; fileRef = 51A843981CCF0E030017AA4C /* slide.png */; };
 		51A8439D1CCF192E0017AA4C /* GenerateTexture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51A8439C1CCF192E0017AA4C /* GenerateTexture.swift */; };
@@ -120,6 +119,9 @@
 		5119371C1CD31D180080B105 /* creatureCircle2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = creatureCircle2.png; path = preGamefest/creatureCircle2.png; sourceTree = "<group>"; };
 		5119371E1CD320180080B105 /* GenerateTransformTexture copy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "GenerateTransformTexture copy.swift"; sourceTree = "<group>"; };
 		511937201CD326FF0080B105 /* creatureHead1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = creatureHead1.png; path = preGamefest/creatureHead1.png; sourceTree = "<group>"; };
+		5138E1F91CE7A91200E6CB65 /* black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = black.png; sourceTree = "<group>"; };
+		5138E1FB1CE7A93300E6CB65 /* hit.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = hit.mp3; sourceTree = "<group>"; };
+		5138E1FD1CE7A96B00E6CB65 /* deathScream.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = deathScream.mp3; sourceTree = "<group>"; };
 		519531571CCBF99A00CF857E /* No Time To....app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "No Time To....app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5195315A1CCBF99A00CF857E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5195315C1CCBF99A00CF857E /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -149,15 +151,11 @@
 		519531A01CCBFF8F00CF857E /* Constant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
 		519531A21CCC65BF00CF857E /* player.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = player.atlas; sourceTree = "<group>"; };
 		519531A41CCC67DF00CF857E /* ProgressBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProgressBar.swift; sourceTree = "<group>"; };
-		519531A61CCC68A600CF857E /* black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = black.png; path = ../../TBS/TBS/black.png; sourceTree = "<group>"; };
-		519531A81CCC68B200CF857E /* red3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = red3.png; path = ../../TBS/TBS/red3.png; sourceTree = "<group>"; };
 		519531AA1CCC785100CF857E /* BaseEnemy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseEnemy.swift; sourceTree = "<group>"; };
 		51A8438A1CCC83460017AA4C /* creature.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = creature.png; sourceTree = "<group>"; };
 		51A8438C1CCDC6030017AA4C /* dead.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dead.png; sourceTree = "<group>"; };
 		51A8438D1CCDC6030017AA4C /* dead2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dead2.png; sourceTree = "<group>"; };
 		51A8438E1CCDC6030017AA4C /* GO.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GO.png; sourceTree = "<group>"; };
-		51A843921CCE86E90017AA4C /* deathScream.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = deathScream.mp3; path = ../../tbs_assets/newAudio/deathScream.mp3; sourceTree = "<group>"; };
-		51A843941CCE86F20017AA4C /* hit.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = hit.mp3; path = ../../tbs_assets/newAudio/hit.mp3; sourceTree = "<group>"; };
 		51A843961CCEAD5F0017AA4C /* defenseAura.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = defenseAura.png; sourceTree = "<group>"; };
 		51A843981CCF0E030017AA4C /* slide.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = slide.png; sourceTree = "<group>"; };
 		51A8439C1CCF192E0017AA4C /* GenerateTexture.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GenerateTexture.swift; sourceTree = "<group>"; };
@@ -288,8 +286,8 @@
 				510AE0E41CD49B9100D5BC96 /* struck3.mp3 */,
 				51FAD2C71CD156430009FE90 /* struck.mp3 */,
 				51FAD2C51CD1563B0009FE90 /* notDemon3.mp3 */,
-				51A843941CCE86F20017AA4C /* hit.mp3 */,
-				51A843921CCE86E90017AA4C /* deathScream.mp3 */,
+				5138E1FB1CE7A93300E6CB65 /* hit.mp3 */,
+				5138E1FD1CE7A96B00E6CB65 /* deathScream.mp3 */,
 			);
 			name = Audio;
 			sourceTree = "<group>";
@@ -304,8 +302,7 @@
 				51A8438D1CCDC6030017AA4C /* dead2.png */,
 				51A8438E1CCDC6030017AA4C /* GO.png */,
 				51FAD2B41CD069FB0009FE90 /* dod.png */,
-				519531A61CCC68A600CF857E /* black.png */,
-				519531A81CCC68B200CF857E /* red3.png */,
+				5138E1F91CE7A91200E6CB65 /* black.png */,
 				519531791CCBF9F300CF857E /* Player */,
 				519531781CCBF9EC00CF857E /* Enemy */,
 				519531771CCBF9E300CF857E /* Background */,
@@ -494,6 +491,7 @@
 				519531911CCBFD7800CF857E /* low.png in Resources */,
 				51A843971CCEAD5F0017AA4C /* defenseAura.png in Resources */,
 				51FAD2D61CD28C0B0009FE90 /* creatureShadow.png in Resources */,
+				5138E1FA1CE7A91200E6CB65 /* black.png in Resources */,
 				51FAD2CE1CD1BD0A0009FE90 /* baseChoicesR.png in Resources */,
 				51BCDA991CE1A8BE001CFA73 /* battleTune4.wav in Resources */,
 				519531981CCBFD7800CF857E /* topArrow.png in Resources */,
@@ -503,17 +501,17 @@
 				519531961CCBFD7800CF857E /* leftArrow.png in Resources */,
 				510AE0E01CD49B1D00D5BC96 /* attack3.png in Resources */,
 				51FAD2BC1CD06DFF0009FE90 /* tileBlack.png in Resources */,
-				519531A91CCC68B200CF857E /* red3.png in Resources */,
 				510AE0E61CD49B9100D5BC96 /* struck3.mp3 in Resources */,
 				51FAD2BF1CD06DFF0009FE90 /* tileLight.png in Resources */,
 				5195319D1CCBFD7800CF857E /* special3.png in Resources */,
-				51A843951CCE86F20017AA4C /* hit.mp3 in Resources */,
 				519531971CCBFD7800CF857E /* bottomArrow.png in Resources */,
 				51BCDA9F1CE5BD12001CFA73 /* step2.mp3 in Resources */,
 				510AE0ED1CD8560300D5BC96 /* letterS.png in Resources */,
 				5119371D1CD31D180080B105 /* creatureCircle2.png in Resources */,
 				5195319F1CCBFD7800CF857E /* special1.png in Resources */,
 				51FAD2BD1CD06DFF0009FE90 /* tileDark.png in Resources */,
+				5138E1FC1CE7A93300E6CB65 /* hit.mp3 in Resources */,
+				5138E1FE1CE7A96B00E6CB65 /* deathScream.mp3 in Resources */,
 				5195315D1CCBF99A00CF857E /* GameScene.sks in Resources */,
 				510AE0EA1CD855DB00D5BC96 /* pathTile.png in Resources */,
 				51F13C861CDC2D07004553C1 /* smallCreature3.png in Resources */,
@@ -523,7 +521,6 @@
 				519531901CCBFD7800CF857E /* special.png in Resources */,
 				51FAD2C21CD129DF0009FE90 /* rogue.atlas in Resources */,
 				519531931CCBFD7800CF857E /* high.png in Resources */,
-				51A843931CCE86E90017AA4C /* deathScream.mp3 in Resources */,
 				51F13C8C1CDC2D17004553C1 /* letterD.png in Resources */,
 				51FAD2C01CD06DFF0009FE90 /* tileWhite.png in Resources */,
 				519531691CCBF99A00CF857E /* LaunchScreen.storyboard in Resources */,
@@ -553,7 +550,6 @@
 				51A843991CCF0E030017AA4C /* slide.png in Resources */,
 				51A843901CCDC6030017AA4C /* dead2.png in Resources */,
 				510AE0F11CD8EE7000D5BC96 /* house.png in Resources */,
-				519531A71CCC68A600CF857E /* black.png in Resources */,
 				51FAD2CC1CD1BD0A0009FE90 /* baseChoices.png in Resources */,
 				51F13C931CDC2D1F004553C1 /* letterB.png in Resources */,
 				51F13C841CDC2D07004553C1 /* smallCreature.png in Resources */,

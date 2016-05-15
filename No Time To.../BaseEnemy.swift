@@ -215,7 +215,7 @@ class BaseEnemy: SKSpriteNode{
             self.HP_bar.alpha = 1.0
             
             self.name = "dud"
-            if(self.type == SCARECROW){
+            if(self.type == SCARECROW || self.type == SMALL_SHADOW){
                 self.runAction(SKAction.fadeOutWithDuration(0.5))
             }else if(self.type == SHADOW){
                 let nodeA = enemyTexture(imageNamed: "creature2.png")
